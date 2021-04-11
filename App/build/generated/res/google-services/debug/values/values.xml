@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1057466128071-c5fp1v9pkp8moelmp94g0dtjpp7e3ovb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sweeper-73435.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1057466128071</string>
+    <string name="google_api_key" translatable="false">AIzaSyCGYOFb6pJtucL3vFEYI4wQ_t9tAGJG-ZI</string>
+    <string name="google_app_id" translatable="false">1:1057466128071:android:5f2e66ea811ec0511f10e2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCGYOFb6pJtucL3vFEYI4wQ_t9tAGJG-ZI</string>
+    <string name="google_storage_bucket" translatable="false">sweeper-73435.appspot.com</string>
+    <string name="project_id" translatable="false">sweeper-73435</string>
+</resources>
