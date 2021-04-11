@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SweeperApp</string>
+    <string name="update">Update</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="phone_no">Phone No</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget password</string>
+    <string name="go">Go</string>
+    <string name="new_user_sign_up">New user? sign up</string>
+    <string name="todo">TODO</string>
+    <string name="your_task">Your Task</string>
+    <string name="email">Email</string>
+    <string name="email_1">email</string>
+    <string name="phoneno">PhoneNo</string>
+    <string name="full_name">Full Name</string>
+    <string name="pone_no">Pone No</string>
+    <string name="address">Address</string>
+    <string name="district">District</string>
+    <string name="state">State</string>
+    <string name="comepelte">Comepelte</string>
+    <string name="no_task">No Task</string>
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1057466128071",
+    "firebase_url": "https://sweeper-73435.firebaseio.com",
+    "project_id": "sweeper-73435",
+    "storage_bucket": "sweeper-73435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057466128071:android:616d589b32ff053a1f10e2",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057466128071-c5fp1v9pkp8moelmp94g0dtjpp7e3ovb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYOFb6pJtucL3vFEYI4wQ_t9tAGJG-ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057466128071-c5fp1v9pkp8moelmp94g0dtjpp7e3ovb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057466128071:android:6f18b5db26dbb6a41f10e2",
+        "android_client_info": {
+          "package_name": "com.example.sweeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057466128071-c5fp1v9pkp8moelmp94g0dtjpp7e3ovb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYOFb6pJtucL3vFEYI4wQ_t9tAGJG-ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057466128071-c5fp1v9pkp8moelmp94g0dtjpp7e3ovb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057466128071:android:5f2e66ea811ec0511f10e2",
+        "android_client_info": {
+          "package_name": "com.example.sweeperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057466128071-c5fp1v9pkp8moelmp94g0dtjpp7e3ovb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYOFb6pJtucL3vFEYI4wQ_t9tAGJG-ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057466128071-c5fp1v9pkp8moelmp94g0dtjpp7e3ovb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
